@@ -1,0 +1,9 @@
+go 1.21.1
+
+use ./Day1
+
+use ./Day2
+
+use ./Day3
+
+use ./Day4
