@@ -1,11 +1,11 @@
-go 1.21.1
+go 1.23
 
-use ./Day01
-
-use ./Day02
-
-use ./Day03
-
-use ./Day04
-
-use ./Day05
+use (
+    ./Day01
+    ./Day02
+    ./Day03
+    ./Day04
+    ./Day05
+    ./Day06
+    ./Day07
+)
