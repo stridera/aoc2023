@@ -1,11 +1,11 @@
 go 1.21.1
 
-use ./Day1
+use ./Day01
 
-use ./Day2
+use ./Day02
 
-use ./Day3
+use ./Day03
 
-use ./Day4
+use ./Day04
 
-use ./Day5
+use ./Day05
